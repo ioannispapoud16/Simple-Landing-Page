@@ -1,2 +1,2 @@
 # Simple-Landing-Page
-Just a test for a landing page
+Trying to build my first landing page using simple html and css.
