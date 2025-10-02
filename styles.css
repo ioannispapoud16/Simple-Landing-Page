@@ -113,4 +113,19 @@ button
 {
     display: flex;
     flex-direction: column;
+    background-color: #e3e3cf;
+    padding: 70px;
+}
+
+.quote_text
+{
+    font-size: 24px;
+    max-width: 800px;
+    align-self: center;
+}
+
+.credits
+{
+    font-weight: bolder;
+    text-align: end;
 }
