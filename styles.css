@@ -151,3 +151,12 @@ body
     border-radius: 8px;
     padding: 8px 16px;
 }
+
+.footer
+{
+    background-color: #146142;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: white;
+}
